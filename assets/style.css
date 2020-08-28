@@ -6,8 +6,13 @@
   Let's go through the important bits real quick
 */
 :root {
-  --yellow: #ffc600;
-  --black: #272727;
+  /* --yellow: #ffc600;
+  --black: #272727; */
+  --black: #0F78BC;
+  --yellow: #5C16C3;
+  --yellow: #89EF05;
+  --yellow: #5FE805;
+  --black: #0C127E;
 }
 
 html {
